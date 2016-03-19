@@ -1,0 +1,4 @@
+LOcation: xampp/htdocs/scripts/diplomski
+URL:      http://localhost/scripts/diplomski/login/log_in
+username: AlenPauliæ0
+password: sustav
